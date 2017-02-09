@@ -14,5 +14,5 @@ But if I put two spaces after the "...this is one long paragraph" sentence previ
 - You can make bullet points too.  
   - and you can make sub bullet points. *fancy*  
 
-If you want to make links to things [click here] [linkofinterest], just follow this template:
+If you want to make links to things just follow this template, or better yet [click here] [linkofinterest].
 [linkofinterest]:https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
