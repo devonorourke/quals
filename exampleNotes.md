@@ -1,11 +1,11 @@
 # This is where you write your title
 
 ## This is where you write the subheading for each paper
-This is where you write your items  
+This is where you write your observations  
 
-**This is how you bold text**  
+**This is how you make your text very bold**  
 
-*This is how you italicize it*  
+*This is how you italicize it if you prefer*  
 
 Note that if you don't put two spaces at the end of every line you won't get a nice space apart. Here is an example of where you don't get two spaces between two lines.
 And yet despite there being a space in the editor this is one long paragraph.  
