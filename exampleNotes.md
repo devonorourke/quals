@@ -12,4 +12,7 @@ And yet despite there being a space in the editor this is one long paragraph.
 But if I put two spaces after the "...this is one long paragraph" sentence previously, we get a new line!.  
 
 - You can make bullet points too.  
-  - and you can make sub bullet points. *fancy*
+  - and you can make sub bullet points. *fancy*  
+
+If you want to make links to things [click here] [linkofinterest], just follow this template:
+[linkofinterest]:https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
