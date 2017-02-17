@@ -1,0 +1,26 @@
+#Week 1 - O'Rourke notes  
+
+## Paper1: Boag and Grant 1981  
+
+### Why they did it:
+At the time, there were few examples of selection being measured experimentally in nature. It's practically difficult: most organisms easily accounted for are large; most large organisms have relatively low reproductive rates. Furthermore, phenotypic plasticity confounds the ability for a researcher to tease apart the variance attributed to underlying genetic and environmental components. The finches used in this study offered several heritable morphological characters to calculate relative fitness, thereby enabling direct calculation of selection intensities.   
+
+### What they did:
+Before even reading the paper, I'd recommend checking out [this 15 minute] [link1] video that HHMI produced which includes interviews with the Grant's describing their preliminary work. This paper reports longitudinal (annually from 1975 - 1978) observations involving the abundance, distribution, and behaviors of one endemic finch species, *G. fortis*, on a small island (Daphne Major) in the Galapagos archipelago. The group evaluated the relationships between changes in (morphological) phenotype measures of *G. fortis* with environmental changes (measured largely as a function of rainfall and the correlated distribution of seed type, abundance, and size-hardness).  
+
+### What they found:
+Selection happens, and much faster than anticipated. As mentioned above, there is a tight association between rainfall and seed type and abundance. In years where annual rainfall is modest (~120-140 mm) there are many plants that produce many seed types. The effect of having a diversity of plant/seed type on bird abundance and morphology is you get lots of birds breeding lots of birds, and the sizes of those birds range from smallish to largeish. The first two years of the study involved years with modest rainfall, generating those observations. Yet in 1977 a drought hit leaving few plant types to generate even fewer seeds (**Figure 1.B**), yet the type of seeds that did remain were typically much larger and harder than in previous years (**Figure 1.D**). As a consequence of decreased food resources the *G. fortis* population suffered an 85% decline (**Figure 1.A**), did not breed at all that year, and the sex ratio was increasinlgy biased towards males. Importantly, the mean size of the bird that survived this population bottleneck was larger than in the first two years of the study (**Figure 1.C**).  
+
+Using heritable characters measured among the bird populations in each year, the scientists calculated the selection intensity. Qualitatively, you can think of selection intensity a couple of ways. The simplest way is to think of it as the death rate. The higher the selection intensity is, the higher the number of deaths will occur in a population. Another way to think of it (as Haldane and others considered it) - it's the (relative) degree with which a population is removed from the optimal phenotype: in other words, if the selection intensity is really high, that's because the average phenotype of the population is no where near the optimal. Yet if the selection intensity is really low, you have a population that is really well suited for the environment.  
+
+How did the scientists ultimately calculate selection intensity? They estimated fitness. How did they estimate fitness? They measured physical traits - that's it! (okay, it's not exactly it - see O'Donnell's paper they reference for all the calculations behind the scenes, but effectively you calculate the rate of fitness change as a function of the variance of a trait). They recorded each of a suite of physical traits and grouped them into two bins: before and after the drought. They then calculated the means and variances of each of those traits in each bin. The rate of mean fitness (increase) was then calculated using those morphological traits, and the relative contribution each trait had on the mean fitness was calculated (**Table 1.1**). What did they find?  
+- means increased over time for bird physical traits associated with size: bigger beaks, bigger body mass... bigger birds
+- body size and bill depth explain the greatest proportion of variance of the data among all morphological measures  
+
+## What it meant:
+The data supports the notion that a discrete environmental shift (food type/abundance) can result in rapid changes in the distribution of (a) phenotype(s) in a single population. As the authors note, there is no clear way to point out the precise target of selection as the measured phenotypes are highly correlated (in population genetic terms, I'd argue that each of these characters are not necessarily equally 'additive' in terms of their genetic variance). These results suggest that populations encounter periods of intense selection through population bottlenecks; given that droughts and epic rainfalls may occur several times a century it is likely that a single population may experience repeated bottlenecks, though again as the authors suggest, the targets and intensities of selection are unpredictable. Finally, such example of strong selection intensities offers insight in how rapid adaptive radiation proceeds in island populations.
+
+
+
+
+[link1]:https://youtu.be/mcM23M-CCog
