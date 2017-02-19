@@ -13,15 +13,27 @@ Mean body size and beak shape changed throughout the study, defying the null exp
 - *G. fortis* had body and beak size changes in different directions of different magnitudes at different intervals (**Figures 1.A and 1.B**). In addition, beak shape shifted abruptly but then remained consistent for many generations (**Fig. 1.C**).
 - *G. scandens*, a larger finch, reduced body and beak size (**Fig. 1.D and 1.E**) and ultimately retained a more blunt beak shape - similar to *G. fortis* - by the end of the reported observation period.  
 
-Long term observations of selection events suggested four key findings:
+Long term observations of selection events suggested four key findings when comparing the two species:
 1. Body and beak size traits were subject to selection more fequently than beak shape (**Fig 2.A - F; pay attention to the y-axis measures among each subfigure**). Body size was subject to selection about every 3 years.
-2. 
+2. Selection intensities can operate unidirectionally or bidirectionally, depending on the finch species in question.  
+3. Unidirectional selection has apparent limits - no more than 3 years was the longest observed.  
+4. Selection in species is not necessarily (or even usually) synchronous. Observed convergence in phenotype occurred during the most extreme drought, with selection for increased body size happening in both species only in that one instance.
+
+In addition, the magnitude of evolution for a certain phenotype was highly predictable when considerting selection differentials and heritability (of that phenotype). The key terms: 
+- heritability measures the proportion of phenotypic variation that can be explained by genetic factors
+- selection differentials are the difference in mean of a phenotype between the parents and the base population  
+So if you measured a phenotype of the surviving parents after a selection event and compared it to the pre-selection population, and you know something about how heritable that character is, you'll be able to predict the mangitude of the evolutionary response... also called the Selection Response. See [here] [link2] and [here] [link3] for a few basic ideas.
 
 ### What it meant:
+With respect to point (3) above, I'd think that this speaks to Fisher's Fundamental Theorem (FFT): you're seeing the rate of fitness decreasing because you don't ever see "selection" at work after 3 years in a row; that's because the underlying genetic variance has been selected out, which is the entire point of FFT: rate of change in fitness (increase) is proportional to additive genetic variance.
 
 ### Additional thoughts:
 FFT: It's a complicated idea, but the simplext explanation here... can't you get differential selection intensities on a trait because certain phenotypes are more removed from the optimal phenotype? So if body size seems to be under the greatest degree of selection, is that another way of stating that either:
-(a) body size optimization is very sensitive in an environment, or
-(b) there are many different ways for selection to identify heritable changes to navigate that body size genetic landscape?
+- (a) body size optimization is very sensitive in an environment, or
+- (b) there are many different ways for selection to identify heritable changes to navigate that body size genetic landscape?  
+
+Synchronisity and competitive exclusion: why aren't the two finches shifting in the same direction more frequently? Were they generally eating different seeds/insects so as to not overlap in foraging patterns? If food resources don't overlap, then perhaps selection for body size won't sync up until you have an extreme drought thereby limiting food to a relatively few plant/seed species - and in that case, you get convergence of a single optimal body size.
 
 [link1]:http://biology-web.nmsu.edu/~houde/Boag%20&%20Grant%201981.pdf
+[link2]:https://www.ndsu.edu/pubweb/~mcclean/plsc431/quantgen/qgen7.htm
+[link3]:https://www.ndsu.edu/pubweb/~mcclean/plsc431/quantgen/qgen5.htm
