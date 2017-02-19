@@ -15,10 +15,10 @@ Mean body size and beak shape changed throughout the study, defying the null exp
 - *G. scandens*, a larger finch, reduced body and beak size (**Fig. 1.D and 1.E**) and ultimately retained a more blunt beak shape - similar to *G. fortis* - by the end of the reported observation period.  
 
 Long term observations of selection events suggested four key findings when comparing the two species:
-1. Body and beak size traits were subject to selection more fequently than beak shape (**Fig 2.A - F; pay attention to the y-axis measures among each subfigure**). Body size was subject to selection about every 3 years.  
-2. Selection intensities can operate unidirectionally or bidirectionally, depending on the finch species in question.   
-3. Unidirectional selection has apparent limits - no more than 3 years was the longest observed.    
-4. Selection in species is not necessarily (or even usually) synchronous. Observed convergence in phenotype occurred during the most extreme drought, with selection for increased body size happening in both species only in that one instance.  
+  1. Body and beak size traits were subject to selection more fequently than beak shape (**Fig 2.A - F; pay attention to the y-axis measures among each subfigure**). Body size was subject to selection about every 3 years.  
+  2. Selection intensities can operate unidirectionally or bidirectionally, depending on the finch species in question.   
+  3. Unidirectional selection has apparent limits - no more than 3 years was the longest observed.    
+  4. Selection in species is not necessarily (or even usually) synchronous. Observed convergence in phenotype occurred during the most extreme drought, with selection for increased body size happening in both species only in that one instance.  
 
 In addition, the magnitude of evolution for a certain phenotype was highly predictable when considerting selection differentials and heritability (of that phenotype). The key terms: 
 - heritability measures the proportion of phenotypic variation that can be explained by genetic factors
