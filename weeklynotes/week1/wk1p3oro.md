@@ -15,10 +15,10 @@ Mean body size and beak shape changed throughout the study, defying the null exp
 - *G. scandens*, a larger finch, reduced body and beak size (**Fig. 1.D and 1.E**) and ultimately retained a more blunt beak shape - similar to *G. fortis* - by the end of the reported observation period.  
 
 Long term observations of selection events suggested four key findings when comparing the two species:
-1. Body and beak size traits were subject to selection more fequently than beak shape (**Fig 2.A - F; pay attention to the y-axis measures among each subfigure**). Body size was subject to selection about every 3 years.
-2. Selection intensities can operate unidirectionally or bidirectionally, depending on the finch species in question.  
-3. Unidirectional selection has apparent limits - no more than 3 years was the longest observed.  
-4. Selection in species is not necessarily (or even usually) synchronous. Observed convergence in phenotype occurred during the most extreme drought, with selection for increased body size happening in both species only in that one instance.
+1. Body and beak size traits were subject to selection more fequently than beak shape (**Fig 2.A - F; pay attention to the y-axis measures among each subfigure**). Body size was subject to selection about every 3 years.  
+2. Selection intensities can operate unidirectionally or bidirectionally, depending on the finch species in question.   
+3. Unidirectional selection has apparent limits - no more than 3 years was the longest observed.    
+4. Selection in species is not necessarily (or even usually) synchronous. Observed convergence in phenotype occurred during the most extreme drought, with selection for increased body size happening in both species only in that one instance.  
 
 In addition, the magnitude of evolution for a certain phenotype was highly predictable when considerting selection differentials and heritability (of that phenotype). The key terms: 
 - heritability measures the proportion of phenotypic variation that can be explained by genetic factors
@@ -27,8 +27,8 @@ So if you measured a phenotype of the surviving parents after a selection event 
 
 #### About introgression...
 Inter-species mating happened throughout the study, but typically occurred in very low rates. Instances where F1 hybrids were (relatively) abundant occurred when there were extreme weather patterns: drought or wet conditions resulted in dramatic changes to food resources. One consequence was a major shift in sex ratios (as a result of a major drought) between one species *but not in the other*; the male-skewed *G. scandens* resulted from a disproprotionate decrease in females due to a lack of food resources, however *G. fortis*  was relatively unaffected. Consequently there was increased competition among *G. scandens* males but not *G. fortis* males. A pair of hybrids among *G. s* males with *G. f* females resulted in future F1 backcrosse with *G. s* populations because mate selection is largely derived from paternal song impriting.  There are a few predictions from these mating patterns that were confirmed:
-1. Increased beak shape and skewness should occur largely for *G. scandens* and NOT for *G. fortis*. Observations demonstrated that hybrids of *G. scandens* contributed significantly to the difference in mean and variance of beak shape. Likewise, there was no significant effect observed for *G. fortis*.
-2. Change in mean and variance will reduce in magnitude over time for *G. scandens* because hybrid events and backcrosses are becoming more rare. This was observed: hybrid proportion to changing mean is reduced over time; hybrid proportion and overall varaince and skewness in trait is reduced over time (**Fig 5**).
+1. Increased beak shape and skewness should occur largely for *G. scandens* and NOT for *G. fortis*. Observations demonstrated that hybrids of *G. scandens* contributed significantly to the difference in mean and variance of beak shape. Likewise, there was no significant effect observed for *G. fortis*.  
+2. Change in mean and variance will reduce in magnitude over time for *G. scandens* because hybrid events and backcrosses are becoming more rare. This was observed: hybrid proportion to changing mean is reduced over time; hybrid proportion and overall varaince and skewness in trait is reduced over time (**Fig 5**).  
 
 ### What it meant:
 With respect to point (3) above, I'd think that this speaks to Fisher's Fundamental Theorem (FFT): you're seeing the rate of fitness decreasing because you don't ever see "selection" at work after 3 years in a row; that's because the underlying genetic variance has been selected out, which is the entire point of FFT: rate of change in fitness (increase) is proportional to additive genetic variance.
