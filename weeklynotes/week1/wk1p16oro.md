@@ -19,4 +19,13 @@
   - Some instance of radiation of trophic levels enabled multiple species to coevolve; in this case adaptations through competitive interactions are not driven by partitioning a common ecological space, but through predator-prey interactions
 - The authors note that just because you observe phenotypic variation there isn't necessarily an adaptive reason for it: the observed cladogenesis may be, in part, a result of drift or perhaps sexual selection.
 
-#### Contingency and determinism:
+#### Contingency and determinism: Gould and Morris are both correct
+- How likely would it be that if we looked at island after island, assuming each island had relatively similar ecological conditions, and had relatively similar colonizers, we'd find the same species? That is, how likely is convergent evolution to be among similar island conditions?
+  - SJG considers there to be too much chance for the existing biodiversity to be repeated. There is evidence that chance plays a large role, and that you don't see identical forms on even neighboring islands.
+  - SCM considers SJG's view to be too strict. While you don't get identical forms, you do get nearly convergent coverage of ecological niches being occupied. In some instances it's a one-for-one replacement of a species, and others the functions are divided up into several species. For instance, a woodpecker on a some continent may have its niche of removing tree insects by a pair of animals that partition the tree insect foraging.
+- Ultimately broad patterns do occur, and for purely functional reasons: 
+  - plants inhabiting bare islands, even if they are not from traditionally tree-like clades, are selected for adaptations that are tree like to occupy the available light resources
+  - flightlessness in birds can and does occur on islands due to lack of predation
+ 
+ #### Post Darwin findings:
+ 
