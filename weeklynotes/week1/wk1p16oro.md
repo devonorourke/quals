@@ -28,4 +28,8 @@
   - flightlessness in birds can and does occur on islands due to lack of predation
  
  #### Post Darwin findings:
+ - It's unclear what mechanisms are responsible for extinction, though there appears to be a relationship between the size of the island and extinction rate (faster rate on smaller islands). It also appears to be a function of the age of the island (more extinction on older islands). Extinction must play a role should islands achieve a steady state of number of total species; assuming islands encounter immigration (and therefore potentially new species), the only way to keep species richness constant is through extinction. 
+ - 3rd to last paragraph about taxon cycles? Not very clear in this article, but [see here] [link1] for a much more complete analysis.
+ 
+ [link1]:http://www.umsl.edu/~ricklefsr/Reprints/RB2002a.pdf
  
