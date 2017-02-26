@@ -1,3 +1,7 @@
-#Week 1 - O'Rourke notes  
+#Week 2 - O'Rourke notes  
 
-## Paper5: Orr and Coyne 1992
+## Paper5: Orr and Coyne 1992 (review)
+
+### Major observations
+
+#### 
