@@ -5,7 +5,7 @@
 ### Major observations
 
 #### Selection can occur at multiple levels of organization
-Lewontin abstracts from a biological population (interbreeding group of organisms) and uses the term more loosely to define it simply as a pair of groups. For selection to act on those two populations (be they ecosystems, individuals, or actual ecological populations), all that is required is:
+Lewontin abstracts from a biological population (interbreeding group of organisms) and uses the term more loosely to define it simply as a pair of groups. For selection to act on those two populations (be they ecosystems, individuals, or actual ecological populations), all that is required is:  
 1. Variation among phenotypes  
 2. Variation among fitnesses  
 3. Fitness be heritable  
