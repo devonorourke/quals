@@ -1,4 +1,4 @@
-#Week 2 - O'Rourke notes  
+# Week 2 - O'Rourke notes  
 
 ## Paper13: Lewontin 1970 (review)
 
@@ -27,6 +27,22 @@ I'm unclear why Lewontin chose to describe chromosomes after organelles, as a ch
 - transversions would work functionally the same way: when fitness of an individual declines, it's relative to the other inidividual flys, not the other flys' chromosomes. 
 If there is selection at the chromosome level, I'd argue it's the findings that [Dillon and others] [link2] have worked out, whereby a gene's location on a chromosome *relative to the origin of replication* is what can lead to differential selection pressures on a chromosome (or chromosomes) in a cell.
 
+##### Selection of Cells
+Lewontin's remarks about the mesenchymal cell differentiation rang hollow with me. 10,000 cell types? Isn't it just alternative splicing to the rescue here? Nevertheless, cell level selection clearly persists - just think about cancer for a minute. It's also persisting at a variety of developmental stages of any multicellular organism. 
+
+##### FFT and consequences in levels of selection:
+1. **The more heritable a character, the faster it *may* evolve**. FFT states that a unit evolves faster when there is more variation in fitness. Likewise, the measure with which some character can influence the fitness of an organism depends on how heritable that character is. So, the more heritable a character, the more it can influence fitness, and thus lead to a greater variance in fitness. Lewontin describes how certain levels of selection contain characters that are more heritable: organelles, haploid cells, and gametes are far more heritable as they don't undergo recombination in the course of their production.  
+2. **Time matters. The faster a character reproduces and dies, the faster selection can act**. Another way to mathematically put it: rate of evolutionary response (ie. time) is inversely proportional to the average fitness of a population. Thus if you are producing individuals every 10 years, but producing cells every 10 days, then selection will be operating on the cells in that individual with much more frequency than a group of individuals in a population.
+
+##### Selection of Populations
+Two rules stated for population-level effects to occur:
+1. Really small population sizes
+2. Really fast death rates; constant turnover of individuals.
+
+### Other observations:
+- Really liked this quote summarizing FFT on p.8: "The rate of evolution is limited by the variation in fitness of the units being selected".
+- In the section titled "**Population Consequences of Individual Selection**" I wondered how these statements could be put into context with genetic drift. Was Lewontin not a big beleiver in neutral evolution as the driving force behind the observed variation in populations? 
+- Probably need to read up more on *Kin Selection*. Guessing a lot of work done in this field since this article.
 
 [link1]:http://www.cell.com/cell/fulltext/S0092-8674(12)01172-5
 [link2]:https://www.ncbi.nlm.nih.gov/pubmed/27744412
