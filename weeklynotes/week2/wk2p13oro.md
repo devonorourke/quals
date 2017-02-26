@@ -1,6 +1,7 @@
 # Week 2 - O'Rourke notes  
 
 ## Paper13: Lewontin 1970 (review)
+See [this review][link3] for a little bit of background regarding this lengthy paper.  
 
 ### Major observations
 
@@ -46,3 +47,4 @@ Two rules stated for population-level effects to occur:
 
 [link1]:http://www.cell.com/cell/fulltext/S0092-8674(12)01172-5
 [link2]:https://www.ncbi.nlm.nih.gov/pubmed/27744412
+[link3]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC34031/
